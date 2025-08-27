@@ -63,7 +63,7 @@ h1 {
     text-align: center;
     text-transform: capitalize;
     color: rgba(255, 255, 255, 1);
-    width: 58.88%;
+    /* max-width: 547px; */
 }
 
 p {
@@ -89,5 +89,13 @@ button {
     padding-bottom: 20px;
     padding-left: 32px;
     border-color: rgba(255, 255, 255, 1);
-    color: rgba(255, 0, 0, 0.75);;
+    color: rgba(255, 0, 0, 0.75);
+    border: none;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: capitalize;
 }
